@@ -1,0 +1,15 @@
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\bin\Debug\WinForms.exe.config
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\bin\Debug\WinForms.exe
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\bin\Debug\WinForms.pdb
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\obj\Debug\WinForms.csproj.AssemblyReference.cache
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\obj\Debug\WinForms.csproj.SuggestedBindingRedirects.cache
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\obj\Debug\WinForms.csproj.GenerateResource.cache
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\obj\Debug\WinForms.exe
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\obj\Debug\WinForms.pdb
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\bin\Debug\Core.dll
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\bin\Debug\Core.pdb
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\obj\Debug\WinForms.Form1.resources
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\obj\Debug\WinForms.csproj.CopyComplete
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\WinForms\obj\Debug\WinForms.Trolleybus.resources

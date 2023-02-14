@@ -1,0 +1,6 @@
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\Core\bin\Debug\Core.dll
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\Core\bin\Debug\Core.pdb
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\Core\obj\Debug\Core.dll
+D:\MINE\ПРОГРАММИРОВАНИЕ\C#\Projects\LabGUI1\Core\obj\Debug\Core.pdb
